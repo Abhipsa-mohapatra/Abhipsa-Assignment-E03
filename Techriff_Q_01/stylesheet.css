@@ -1,0 +1,12 @@
+#myFirstH2{
+    visibility: hidden;
+}
+#mySecondH2{
+    display: none;
+}
+#myUL li{
+    display: inline-block;
+}
+.block{
+    font-weight: bolder;
+}
